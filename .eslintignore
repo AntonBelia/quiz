@@ -1,0 +1,1 @@
+echo "tailwind.config.js" >> .eslintignore
